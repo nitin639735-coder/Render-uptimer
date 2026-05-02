@@ -5,7 +5,7 @@ const http = require("http");
 //  ⚙️  CONFIG — यहाँ अपने URLs डालो
 // ═══════════════════════════════════════════════════
 
-const SELF_URL = "https://your-ping-worker.onrender.com"; // ← अपना Render URL डालो
+const SELF_URL = "https://render-uptimer-8o4j.onrender.com"; // ← अपना Render URL डालो
 
 const HF_SPACES = [
   "https://huggingface.co/spaces/Xmen19/claw4?logs=container",
