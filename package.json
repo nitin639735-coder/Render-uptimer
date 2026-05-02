@@ -1,0 +1,15 @@
+{
+  "name": "hf-ping-worker",
+  "version": "2.0.0",
+  "description": "Keeps 15 HuggingFace Spaces alive via random-interval pinging",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
