@@ -8,7 +8,7 @@ const http = require("http");
 const SELF_URL = "https://your-ping-worker.onrender.com"; // ← अपना Render URL डालो
 
 const HF_SPACES = [
-  "https://space1-username.hf.space",
+  "https://huggingface.co/spaces/Xmen19/claw4?logs=container",
   "https://space2-username.hf.space",
   "https://space3-username.hf.space",
   "https://space4-username.hf.space",
